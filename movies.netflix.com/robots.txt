@@ -1,0 +1,20 @@
+# /robots.txt file for movies.netflix.com/
+
+User-agent: *
+Disallow: /
+User-agent: Googlebot, bingbot
+Disallow: /AddToQueue
+Disallow: /EmailSetRating
+Disallow: /Error
+Disallow: /Login
+Disallow: /Logout
+Disallow: /MoviesYouveSeen
+Disallow: /Queue
+Disallow: /QueueAddConfirmation
+Disallow: /RateMovies
+Disallow: /RecommendationsHome
+Disallow: /Reviews
+Disallow: /Search
+Disallow: /SetRating
+Disallow: /SetTastePreference
+Disallow: /WiSearch
